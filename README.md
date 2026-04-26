@@ -13,4 +13,8 @@ Quebra galho para vários assuntos; conceitos, testes, treinos, códigos/ ferram
 
 ### Cloud Computing
 
-- [Deploy de projetos com AWS Free Tier](/ad-hocs/AWS.md)
+- [Deploy de projetos com AWS Free Tier](/ad-hocs/cloud-computing/AWS.md)
+
+### Python
+
+- [Gerenciamento de memória](/ad-hocs/Python/MUTABILIDADE_PYTHON.md)
