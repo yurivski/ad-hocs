@@ -21,4 +21,4 @@ Quebra galho para vários assuntos; conceitos, testes, treinos, códigos/ ferram
 
 ### Data Engineering
 
-- [Arquiteturas de Dados: Data Warehouse, Data Lake e Data Lakehouse](/ad-hocs/data-engineering/arquitetura-de-dados.md)
+- [Arquiteturas de Dados: Data Warehouse, Data Lake e Data Lakehouse](/ad-hocs/data-engineering/arquiteturas-de-dados.md)
