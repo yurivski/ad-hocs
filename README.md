@@ -18,3 +18,7 @@ Quebra galho para vários assuntos; conceitos, testes, treinos, códigos/ ferram
 ### Python
 
 - [Gerenciamento de memória](/ad-hocs/Python/MUTABILIDADE_PYTHON.md)
+
+### Data Engineering
+
+- [Arquiteturas de Dados: Data Warehouse, Data Lake e Data Lakehouse](/ad-hocs/data-engineering/arquitetura-de-dados.md)
