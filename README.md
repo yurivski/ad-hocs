@@ -11,13 +11,18 @@ Quebra galho para vários assuntos; conceitos, testes, treinos, códigos/ ferram
 
 <br>
 
+### Python
+
+- [Gerenciamento de memória](/ad-hocs/Python/MUTABILIDADE_PYTHON.md)
+
+### SQL (psql)
+
+- [Framework para facilitar a escrita e leitura de cláusulas SQL](/ad-hocs/SQL/framework-de-clausulas.md)
+
 ### Cloud Computing
 
 - [Deploy de projetos com AWS Free Tier](/ad-hocs/cloud-computing/AWS.md)
 
-### Python
-
-- [Gerenciamento de memória](/ad-hocs/Python/MUTABILIDADE_PYTHON.md)
 
 ### Data Engineering
 
