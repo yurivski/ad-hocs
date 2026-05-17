@@ -27,3 +27,12 @@ Quebra galho para vários assuntos; conceitos, testes, treinos, códigos/ ferram
 ### Data Engineering
 
 - [Arquiteturas de Dados: Data Warehouse, Data Lake e Data Lakehouse](/ad-hocs/data-engineering/arquiteturas-de-dados.md)
+
+### Database 
+**Designe de Banco de Dados**
+
+- [Chaves e Relacionamentos](/ad-hocs/database/chaves-e-relacionamentos.md)
+
+**Modelagem de Dados**
+
+- [Traduzir as regras do mundo real para o computador](/ad-hocs/database/traduzir-as-regras.md)
