@@ -15,6 +15,10 @@ Quebra galho para vários assuntos; conceitos, testes, treinos, códigos/ ferram
 
 - [Gerenciamento de memória](/ad-hocs/Python/MUTABILIDADE_PYTHON.md)
 
+### Integração e Entrega Contínuas (CI/CD)
+
+- [Automação de CI/CD](/ad-hocs/CI-CD/automacao-de-ci_cd.md)
+
 ### SQL (psql)
 
 - [Framework para facilitar a escrita e leitura de cláusulas SQL](/ad-hocs/SQL/framework-de-clausulas.md)
