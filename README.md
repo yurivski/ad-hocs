@@ -40,3 +40,7 @@ Quebra galho para vários assuntos; conceitos, testes, treinos, códigos/ ferram
 **Modelagem de Dados**
 
 - [Traduzir as regras do mundo real para o computador](/ad-hocs/database/traduzir-as-regras.md)
+
+### Versionamento
+
+- [Versionamento semântico](https://semver.org/lang/pt-BR/)
