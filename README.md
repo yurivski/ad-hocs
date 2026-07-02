@@ -32,6 +32,8 @@ Quebra galho para vários assuntos; conceitos, testes, treinos, códigos/ ferram
 
 - [Arquiteturas de Dados: Data Warehouse, Data Lake e Data Lakehouse](/ad-hocs/data-engineering/arquiteturas-de-dados.md)
 
+- [Hapy Path - Recall para pipelines](/ad-hocs/data-engineering/hapy-path.md)
+
 ### Database 
 **Designe de Banco de Dados**
 

@@ -24,7 +24,7 @@ lembrai-vos do recall:
 - Resposta inesperada: status code, payload vazio, schema diferente do esperado
 - Volume: cabe na memória ou preciso paginar / fazer streaming
 - Rate limit: a origem me bloqueia se eu pedir rápido demais
-- Estado / incremental: extraio tudo sempre ou só o que mudou, e onde guardo esse "última vez"
+- Estado / incremental: extraio tudo sempre ou só o que mudou, e onde guardo
 - Escrita segura: se o processo morrer no meio da gravação (escrever em temp e renomear no fim)
 - Idempotência: rodar duas vezes gera lixo duplicado
 - Observabilidade: como eu sei depois que rodou e rodou certo (log estruturado)
