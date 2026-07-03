@@ -11,6 +11,10 @@ Quebra galho para vários assuntos; conceitos, testes, treinos, códigos/ ferram
 
 <br>
 
+### MacGyver (quick tools)
+
+- [PDF-01 - Remover páginas de PDF preservando o layout](/ad-hocs/macgyver/tool_pdf_01.py)
+
 ### Python
 
 - [Gerenciamento de memória](/ad-hocs/Python/MUTABILIDADE_PYTHON.md)
